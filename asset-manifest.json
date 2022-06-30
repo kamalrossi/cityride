@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cityride/static/css/main.a45d4565.chunk.css",
+    "main.js": "/cityride/static/js/main.86ff90ac.chunk.js",
+    "main.js.map": "/cityride/static/js/main.86ff90ac.chunk.js.map",
+    "runtime-main.js": "/cityride/static/js/runtime-main.a85efe15.js",
+    "runtime-main.js.map": "/cityride/static/js/runtime-main.a85efe15.js.map",
+    "static/css/2.31ff0196.chunk.css": "/cityride/static/css/2.31ff0196.chunk.css",
+    "static/js/2.e863c310.chunk.js": "/cityride/static/js/2.e863c310.chunk.js",
+    "static/js/2.e863c310.chunk.js.map": "/cityride/static/js/2.e863c310.chunk.js.map",
+    "static/js/3.716d1997.chunk.js": "/cityride/static/js/3.716d1997.chunk.js",
+    "static/js/3.716d1997.chunk.js.map": "/cityride/static/js/3.716d1997.chunk.js.map",
+    "index.html": "/cityride/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/cityride/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.a45d4565.chunk.css.map": "/cityride/static/css/main.a45d4565.chunk.css.map",
+    "static/js/2.e863c310.chunk.js.LICENSE.txt": "/cityride/static/js/2.e863c310.chunk.js.LICENSE.txt",
+    "static/media/cityride_dahsboard.66157063.png": "/cityride/static/media/cityride_dahsboard.66157063.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a85efe15.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.e863c310.chunk.js",
+    "static/css/main.a45d4565.chunk.css",
+    "static/js/main.86ff90ac.chunk.js"
+  ]
+}
